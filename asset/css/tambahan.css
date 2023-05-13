@@ -68,3 +68,12 @@
     .btn-link-cookpad:hover {
     color: var(--bs-btn-hover-color);
     }
+
+    .draggable {
+        cursor: grab;
+      }
+      
+      .dragging {
+        cursor: grabbing;
+      }
+      
