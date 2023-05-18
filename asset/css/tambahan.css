@@ -14,6 +14,10 @@
     background-color: #ff9933cb;
 }
 
+.text-cookpad{
+  color: #ff9933;
+}
+
 .opac-cookpad{
     background-color: #ff9933;
     opacity: 0.9;
@@ -76,4 +80,25 @@
       .dragging {
         cursor: grabbing;
       }
+
+      .center-div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .read-more-content {
+      display: none;
+    }
+
+    /* @font-face {
+      font-family: 'Poppins';
+      src: url('../font/Poppins-Regular.ttf');
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+  } */
       
