@@ -1,4 +1,4 @@
-.search-box {
+  .search-box {
     display: flex;
     align-items: center;
     background-color: #fafafa;
@@ -93,7 +93,11 @@
       display: none;
     }
 
+<<<<<<< HEAD
         @font-face {
+=======
+    @font-face {
+>>>>>>> eee692e3d413778f3a1e155732a13ac3daae7143
       font-family: 'NotoSans';
       src: url('../font/NotoSans-Regular.ttf');
     }
@@ -104,4 +108,10 @@
       font-weight: 350;
       letter-spacing: 1.5px;
       color: #606060;
+<<<<<<< HEAD
   }
+=======
+  }
+
+      
+>>>>>>> eee692e3d413778f3a1e155732a13ac3daae7143
